@@ -10,3 +10,4 @@ Once that connection is established, the participant sends a Connection Gateway 
 message. The Connection Gateway will validate PartyIDSessionID (20055) and Password
 (554), which are parameters provided by the exchange. The Connection Gateway cannot be
 used for any other purpose.
+this is much better error message
